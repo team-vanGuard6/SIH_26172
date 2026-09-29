@@ -1,4 +1,4 @@
-# SIH-_26172
+#SIH_26172
 # Kairo Edge
 
 Low-latency custom keyword spotting for edge devices using an ESP32-S3, an INMP441 digital microphone and an integer-quantized neural network.
